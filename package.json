@@ -31,7 +31,7 @@
     "jwt-decode": "^2.2.0",
     "localforage": "^1.7.3",
     "moment": "^2.24.0",
-    "papaparse": "^4.6.3",
+    "papaparse": "^5.2.0",
     "query-string": "^6.4.2",
     "rc-collapse": "^1.11.1",
     "rc-steps": "^3.3.1",
