@@ -1,0 +1,38 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - '@celebryts/react-autocomplete-tags > lodash':
+        patched: '2020-04-30T23:06:02.292Z'
+    - html-webpack-plugin > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - rc-steps > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-dates > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-querybuilder > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-tag-input > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - recharts > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - redux-form > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-dazzle > react-dnd > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-dazzle > react-dnd-html5-backend > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - recharts > react-smooth > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-dazzle > react-dnd > dnd-core > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-overlay-loading > webpack > async > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-overlay-loading > webpack-dev-server > http-proxy-middleware > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-dazzle > react-dnd > dnd-core > redux > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
+    - react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2020-04-30T23:06:02.292Z'
