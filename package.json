@@ -71,7 +71,7 @@
     "react-select": "^2.4.2",
     "react-sortable-tree": "^2.6.2",
     "react-stepzilla": "^6.0.0",
-    "react-syntax-highlighter": "^10.2.1",
+    "react-syntax-highlighter": "^13.0.0",
     "react-table": "^6.9.2",
     "react-tag-autocomplete": "^5.9.0",
     "react-tag-input": "^6.4.0",
