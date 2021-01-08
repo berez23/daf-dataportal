@@ -89,7 +89,7 @@
     "serviceworker-webpack-plugin": "^1.0.1",
     "set-default-browser": "^1.0.1",
     "shortid": "^2.2.14",
-    "socket.io-client": "^2.2.0",
+    "socket.io-client": "^3.0.0",
     "style-loader": "^0.23.1",
     "superagent": "^5.0.2",
     "superagent-mock": "^3.7.0",
